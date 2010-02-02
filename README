@@ -1,0 +1,10 @@
+My bash/perl scripts that I normally use
+
+wallpaper & wallpaper.pl:
+Perl script to set a random wallpaper in GNOME. Now broken due to changes in GNOME.
+
+android_backup.sh:
+Script that backs up applications with data from connected Android phone. Requires adb
+
+android_restore.sh:
+Script that restores previously backed up data to connected Android phone. Requires adb
